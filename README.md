@@ -9,3 +9,6 @@ A máquina de Turing é um dispositivo teórico desenvolvido por Alan Turing. Po
   * 𝛿 são as funções de transições da máquina.
   * 𝑠 é o estado inicial.
   * 𝐻 o conjunto dos estados de parada.
+    
+### Problema :pencil2:
+Dada uma máquina de turing formalmente descrita e uma entrada _w_, caso seja possível imprimir a configuração de parada da máquina passada.
