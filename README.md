@@ -1,2 +1,3 @@
-# Simulador_de_maquina_de_turning
-Projeto desenvolvido na disciplina de Teoria da Computação 
+<div align="center">
+  <h2>Simulador de Máquina de Turing Determinística</h2>
+<\div>
